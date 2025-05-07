@@ -1,0 +1,1 @@
+export type NavColor = 'default' | 'vibrant' | 'green' | 'orange' | 'purple' | 'pink' | 'teal' | 'red'; 
